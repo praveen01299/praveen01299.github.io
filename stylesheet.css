@@ -130,6 +130,19 @@ h2 {
   -webkit-transition: opacity .2s ease-in-out;
 }
 
+a.pdf-button {
+  display: inline-block;
+  padding: 3px 10px;
+  border: 1px solid #1772d0;
+  border-radius: 4px;
+  font-size: 13px;
+}
+
+a.pdf-button:hover {
+  background-color: #1772d0;
+  color: #ffffff;
+}
+
 span.highlight {
   background-color: #ffffd0;
 }
